@@ -1,0 +1,90 @@
+/* Tints Gmail's Dark theme so the sky in stars.css shows through.
+   Messages and the compose window sit on soft lavender paper so every email stays readable. */
+
+html,
+body {
+  background: #1c1937 !important;
+}
+
+/* page backdrop */
+.wl,
+.aAT,
+.aAU,
+.aeL,
+.w-asu {
+  background: transparent !important;
+}
+
+/* main panel */
+.bkK > .nH,
+.TD,
+.qd,
+.GR,
+.O6 {
+  background: #1e1a3e8c !important;
+}
+
+/* inbox rows: read, then unread */
+.yO {
+  background: #ffffff05 !important;
+}
+
+.zE {
+  background: #c8b4ff14 !important;
+}
+
+/* selected folder in the sidebar */
+.TO.nZ {
+  background: #f3d9a42e !important;
+}
+
+.TO.nZ a,
+.TO.nZ .bsU {
+  color: #f3d9a4 !important;
+}
+
+/* compose and send buttons */
+.T-I.T-I-KE {
+  background: #f3d9a4 !important;
+  color: #2a2650 !important;
+}
+
+.T-I.aoO,
+.T-I.hG.T-I-atl {
+  background: #8f7ae0 !important;
+}
+
+/* reading pane */
+.ao9,
+.ao9 .nH,
+.iY,
+.a98 {
+  background: #f7f3fb !important;
+}
+
+.ao9 {
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* compose window */
+.AD .Hy > .nH > .l.m {
+  background: #2a2650 !important;
+}
+
+.AD .Hy .a3E {
+  color: #ece8f6 !important;
+}
+
+.AD .aaZ,
+.AD .aGb,
+.AD .agP,
+.AD .qz,
+.AD .Ap,
+.AD .aDj {
+  background: #f7f3fb !important;
+}
+
+.AD .J-Z {
+  background: #ede6f7 !important;
+}
